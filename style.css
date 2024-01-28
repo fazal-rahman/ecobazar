@@ -1,0 +1,705 @@
+.store-content {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    color: #666666;
+
+}
+
+.border-bottom {
+    border-bottom: 1px solid black;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.content {
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    color: #666666;
+
+}
+
+.center-line {
+    width: 1px;
+    height: 15px;
+    background: #E6E6E6;
+}
+
+.sign-in-sign-up-button {
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+
+
+}
+
+.plant {
+    width: 32px;
+    height: 32px;
+}
+
+.sign-up {
+    text-decoration: none;
+    color: #666666;
+}
+
+.Shopping {
+    font-size: 11px;
+}
+
+.eco {
+    color: #002603;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: -0.96px;
+}
+
+.line {
+    width: 1px;
+    height: 24px;
+    background: #a16619;
+}
+
+.search-icon {
+    position: absolute;
+    top: 8px;
+    left: 7px;
+
+}
+
+.form-control {
+    padding-left: 37px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    width: 350px;
+}
+
+.col-md-6-search-btn {
+    position: absolute;
+    left: 347px;
+    top: -1px;
+    height: 35px;
+    background-color: #00B207;
+    color: #FFFFFF;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    font-size: 12px;
+
+}
+
+.col-md-6-search-btn:hover {
+    background-color: #00B207;
+}
+
+.duram {
+    position: absolute;
+    top: 15px;
+    font-size: 14px;
+}
+
+.line {
+    position: absolute;
+    width: 1px;
+    height: 24px;
+    color: #CCCCCC;
+    left: 0px;
+    top: 4px;
+}
+
+.eng-content {
+    gap: 25px;
+}
+
+
+
+.notification {
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 10px;
+    background-color: #00B207;
+    padding: 4px;
+    position: absolute;
+    border-radius: 50%;
+    left: 160px;
+    color: #FFFFFF;
+}
+
+
+
+.nav-link {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+
+
+}
+
+.text-colour {
+    color: #999999;
+}
+
+
+
+/* ffffffffffffffff */
+
+
+
+.content-1,
+.content-2,
+.content-3 {
+    position: absolute;
+    top: 0;
+
+}
+
+.content-1 {
+    top: 100px;
+    left: 50px;
+}
+
+.content-2 {
+    top: 20px;
+    left: 20px;
+}
+
+.content-3 {
+    top: 20px;
+    left: 50px;
+}
+
+.categories {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 217px;
+    width: 178px;
+}
+
+.Popular-img {
+    height: 157px;
+}
+
+.Popular-bag {
+    background-color: #eef5f3;
+    border-radius: 50%;
+    padding: 10px
+}
+
+.Chinese-img-hover {
+    transition: 0.5s ease;
+}
+
+.Chinese-img-hover:hover {
+    z-index: 1;
+    box-shadow: 0px 0px 2px 2px #00B207;
+}
+
+.img-heart {
+    position: absolute;
+    left: 170px;
+    top: 10px;
+}
+
+.heart {
+    background-color: #eef5f3;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.eye {
+    background-color: #eef5f3;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.img-heart {
+    display: none;
+}
+
+.card-heart:hover .img-heart {
+    display: block;
+
+}
+
+.popular-second-img {
+    height: 157px;
+}
+
+.popular-second-star {
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.popular-second-bag {
+    background-color: #eaefef;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.sale-btn {
+    position: absolute;
+    background-color: #EA4B48;
+    border-radius: 5px;
+    left: 10px;
+    top: 10px;
+    padding: 2px;
+    color: white;
+}
+
+.popular-three-img {
+    width: 372px;
+    height: 470px;
+}
+
+.green-card {
+    top: 20px;
+    color: #eaefef;
+    width: 100%;
+}
+
+.shop-btn {
+    padding: 5px 20px;
+    border: none;
+    color: #00B207;
+    border-radius: 20px;
+
+}
+
+.apple-card {
+    width: 473px;
+    height: 644px;
+}
+
+.mini-card {
+    width: 100%;
+    height: 230px;
+}
+
+.six-card {
+    width: 222px;
+    height: 270px;
+}
+
+.merche {
+    height: 149px;
+}
+
+.apple-card-btn {
+    background-color: #00B207;
+    color: #FFFFFF;
+    border: none;
+    padding: 8px 105px;
+    border-radius: 50px;
+}
+
+.six-card-tocker {
+    background-color: #F2F2F2;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.apple-button {
+    display: flex;
+    top: 8px;
+    left: 9px;
+    gap: 10px;
+}
+
+.button-sale-btn {
+    top: 11px;
+    left: 10px;
+}
+
+.mercha-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EA4B48;
+    color: #FFFFFF;
+    padding: 3px 10px;
+    border-radius: 5px;
+
+}
+
+.card-group-width {
+    width: 1141px;
+}
+
+.hot-deal-five-img {
+    height: 182px;
+    width: 226px;
+}
+
+.five-card {
+    width: 264px;
+    height: 300px;
+}
+
+.Red-Tomatos-btn {
+    top: 6px;
+    left: 9px;
+
+}
+
+.sale-percentage-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EA4B48;
+    color: #FFFFFF;
+    padding: 3px 5px;
+    border-radius: 5px;
+}
+
+.hot-deal-long-pic {
+    width: 1139px;
+    height: 347px;
+    border-radius: 25px;
+}
+
+
+.long {
+    top: 55px;
+    color: #F2F2F2;
+    left: 700px;
+}
+
+.sumer-content {
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+}
+
+.long-pic-button {
+    background-color: #00B207;
+    border: none;
+    color: #FFFFFF;
+    display: flex;
+    padding: 13px 29px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border-radius: 40px;
+
+}
+
+.btn-bt-btn {
+    top: 10px;
+    left: 10px;
+
+}
+
+.sale-of-sale {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 13px;
+    border-radius: 7px;
+    background-color: #EA4B48;
+    color: #eaefef;
+}
+
+.latest-img-width {
+    width: 424px;
+    height: 324px;
+    border-radius: 10px;
+}
+
+.november {
+    top: 258px;
+    left: 36px;
+    background-color: #eef5f3;
+    border-radius: 8px;
+}
+
+
+.nov-ber {
+    padding: 0px 5px;
+    height: 57px;
+    margin-top: -5px;
+}
+
+.small-picture {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+
+.small-pic-width {
+    width: 20px;
+    height: 20px;
+}
+
+.small-pic-content {
+    font-size: 20px;
+}
+
+.client-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-icon {
+    background-color: #F2F2F2;
+    padding: 10px 12px;
+    border-radius: 25px;
+}
+
+.right-icon {
+    background-color: #00B207;
+    padding: 10px 12px;
+    border-radius: 25px;
+    color: #F2F2F2;
+}
+
+.client-section-card {
+    background-color: #fcfafa;
+    border-radius: 10px;
+    width: 370px;
+    height: 227px;
+}
+
+.man-picture {
+    margin-right: 10px !important;
+    width: 56px;
+    height: 56px;
+    border-radius: 30px;
+}
+
+.client-section {
+    display: flex;
+    align-items: center;
+}
+
+.robert {
+    margin-bottom: 0px;
+}
+
+.dianne-section {
+    display: flex;
+    align-items: center;
+}
+
+.dianne {
+    margin-bottom: 0px;
+}
+
+.men-line {
+    rotate: 90deg;
+    width: 30px;
+    color: black;
+
+}
+
+
+.Instagram-img-section {
+    width: 181px;
+    height: 195px;
+    border-radius: 10px;
+}
+
+.Instagram-icon {
+    top: 69px;
+    left: 71px;
+}
+
+
+.sub-button {
+   right: 0px;
+}
+
+.subscribe-button {
+    border: none;
+    background-color: #00B207;
+    color: #FFFFFF;
+    padding: 7px 40px;
+    border-radius: 24px;
+
+}
+
+@media screen and (max-width: 1024px) {
+    .notification {
+        left: 116px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .notification {
+        left: 81px;
+        padding: 3px;
+        font-size: 9px;
+    }
+
+    .form-control {
+        padding-left: 37px;
+        font-size: 13px;
+        width: 250px;
+    }
+
+    .col-md-6-search-btn {
+        left: 241px;
+        top: 0px;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    .duram {
+        top: 30px;
+        font-size: 11px;
+    }
+
+    .Shopping {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .store-content {
+        font-size: 10px;
+
+    }
+
+    .eng-content {
+        gap: 5px;
+    }
+
+    .sign-in-sign-up-button {
+
+        font-size: 9px;
+
+    }
+
+    .content {
+
+        font-size: 9px;
+
+
+    }
+
+    .plant {
+        width: 29px;
+        height: 29px;
+    }
+
+    .eco {
+        color: #002603;
+        font-size: 19px;
+        letter-spacing: -0.96px;
+    }
+
+    .form-control {
+        padding-left: 10px;
+        width: 100px;
+        display: inline;
+    }
+
+    .col-md-6-search-btn {
+        left: 168px;
+        top: 0px;
+        height: 33px;
+        font-size: 11px;
+    }
+
+    .notification {
+        left: 35px;
+        padding: 2px;
+        font-size: 8px;
+        bottom: 33px;
+    }
+
+    .duram {
+        top: 16px;
+        font-size: 12px;
+    }
+
+    .nav-mob {
+        font-size: 8px;
+    }
+
+    .nav-bar-mobile {
+        width: auto;
+    }
+
+    .mobile-show {
+        display: flex !important;
+    }
+
+    .mobile-hide {
+        display: none;
+    }
+
+    .search-icon {
+        position: absolute;
+        top: 6px;
+        left: 80px;
+        width: 14px;
+    }
+
+    .bottom-30 {
+        bottom: 30px;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .form-control {
+        padding-left: 10px;
+        width: 100px;
+        display: inline;
+    }
+
+    .eco {
+        color: #002603;
+        font-size: 19px;
+        letter-spacing: -0.96px;
+    }
+
+
+    .form-control {
+        display: flex;
+    }
+
+    .col-md-6-search-btn {
+        left: 168px;
+        top: 0px;
+        height: 33px;
+        font-size: 11px;
+        display: flex;
+    }
+
+    .nav-mob {
+        font-size: 8px;
+    }
+
+    .nav-bar-mobile {
+        width: auto;
+    }
+
+    .mobile-show {
+        display: flex !important;
+    }
+
+    .mobile-hide {
+        display: none;
+    }
+
+}
